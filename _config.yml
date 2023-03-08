@@ -22,9 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://github.com/idodwi/Jekyll"
-    - Learn markdown: "https://github.com/idodwi/Jekyll"
-  Author's home: "https://github.com/idodwi/Jekyll"
+    - Beautiful Jekyll: "https://idodwi.github.io"
+    - Learn markdown: "https://idodwi.github.io"
+  Author's home: "https://idodwi.github.io"
 
 ################
 # --- Logo --- #
